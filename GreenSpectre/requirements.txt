@@ -1,0 +1,9 @@
+streamlit
+click
+numpy
+opencv-python
+pandas
+torch
+torchvision
+albumentations
+matplotlib
